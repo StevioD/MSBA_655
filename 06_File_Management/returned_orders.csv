@@ -1,0 +1,5 @@
+,CustomerId,SalesOrderId,TransactionDate,GrandTotal,Status
+2,3,37054577,6/1/21,119.95,returned
+0,6,37044091,6/2/21,199:75,returned
+4,15,36760582,6/3/20,164.94,returned
+3,19,36945414,6/4/21,174.97,returned
